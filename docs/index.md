@@ -1,4 +1,4 @@
-# PUT YOUR PROPOSAL TITLE HERE
+# Tampa Census
 
 ---
 
@@ -6,10 +6,8 @@
 
 ---
 
-![imgs/intro_img.jpg]
+![](imgs/956px-Flag_of_Tampa,_Florida.svg.png)
 
-REPLACE THE INTRO IMAGE WITH ANY IMAGE YOU WISH, OR PUT IMAGES ANYWHERE ELSE,
-IF YOU LIKE.
 
 ---
 
