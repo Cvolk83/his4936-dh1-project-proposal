@@ -1,18 +1,27 @@
 # Bibliography
 
-Remember to make full use of Markdown format. You can use two asterices to
-make text **bold**. More importantly for Chicago Style format, you should use
-a single astrix to make text *italicized*, which you should use for book
-titles. Remember to use Markdown to create links to any web resources in your
-bibliography.
+**Sorcing for Data**
 
-Below are a few examples
+* **“Tampa, FL | Data USA.” Accessed July 11, 2018. https://datausa.io/profile/geo/tampa-fl/.**
 
-* Cheyette, Fredric L. *Ermengard of Narbonne and the World of the Troubadours*.  Ithaca, Cornell University Press, 2001.
-* Chaniotis, Angelos. *Die Verträge zwischen kretischen Poleis in der hellenistischen Zeit*. Heidelberger althistorische Beiträge und epigraphische Studien 24. Stuttgart: Franz Steiner Verlag, 1996.
-* Clinton, Kevin. “A Family of Eumolpidai and Kerykes Descended from Pericles.” *Hesperia* 73,  no. 1 (2004): 39-57.
-* Clinton, Kevin. “Eleusis and the Romans.” In *The Romanization of Athens: Proceedings of an International Conference held at Lincoln, Nebraska (April 1996)*,  Oxbow Monographs 94, edited by Michael C. Hoff and Susan I. Rotroff, 161-82. Oxford: Oxbow, 1997.
-* Coward, Fiona. "Small Worlds, Material Culture and Ancient Near Eastern Social Networks." In *Social Brain, Distributed Mind*, edited by Robin Dunbar, Clive Gamble, and John Gowlett. Oxford: Oxford University Press, 2010.
-* Geagan, Daniel. “The Great Catalogue from the City Eleusinion.” *Zeitschrift für Papyrologie und Epigrafik 33* (1979): 93-115.
+**Sourcing for Data Support**
 
-If you want, you can break your bibliography into different sections, for example, one section for traditional historiography, and another for digitally related works. You do not have to do this though.
+* **“Adam Putnam Right about Need for More Nurses in Florida.” @politifact. Accessed July 11, 2018. http://www.politifact.com/florida/statements/2017/nov/08/adam-putnam/adam-putnam-right-about-need-more-nurses-state/.**
+
+* **“An Economic Mystery: Why Are Men Leaving The Workforce?” NPR.org. Accessed July 11, 2018. https://www.npr.org/2016/09/06/492849471/an-economic-mystery-why-are-men-leaving-the-workforce.**
+
+* **“Florida Facing a ‘nursing Shortage Tsunami’ Due to Increased Population, More Insured Patients,” February 1, 2016. http://www.tampabay.com/news/health/florida-facing-a-nursing-shortage-tsunami-due-to-increased-population-more/2263588.**
+
+* **“Gov. Scott: Tampa-St. Petersburg-Clearwater Area Led State in Job Creation.” Accessed July 11, 2018. https://www.flgov.com/gov-scott-tampa-st-petersburg-clearwater-area-led-state-in-job-creation-1/.**
+
+* **“Labor Market Polarization in Florida | Www.Bebr.Ufl.Edu.” Accessed July 10, 2018. https://www.bebr.ufl.edu/economics/website-article/labor-market-polarization-florida.**
+
+* **“Romano: Florida Is Losing Teachers, One Test at a Time,” September 19, 2016. http://www.tampabay.com/news/education/k12/romano-florida-is-losing-teachers-one-test-at-a-time/2294280.**
+
+* **“Tampa Adds More than 30,000 Jobs over Past Year.” Accessed July 11, 2018. http://www.baynews9.com/fl/tampa/news/2018/06/15/tampa-adds-more-than-thirty-thousand-jobs-over-the-year.**
+
+**Sourcing for data processing**
+
+* **“An Introduction to Tableau: What It Is and How It Can Provide Insight for Your Business.” CMSWire.com. Accessed July 11, 2018. https://www.cmswire.com/analytics/an-introduction-to-tableau-what-it-is-and-how-it-can-provide-insight-for-your-business/.**
+
+* **“Learning.” Tableau Software. Accessed July 11, 2018. https://www.tableau.com/learn.**
